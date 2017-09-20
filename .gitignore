@@ -62,3 +62,5 @@ tmp/
 # bower #
 ###########
 bower_components/
+app/*.js
+app/*.js.map
